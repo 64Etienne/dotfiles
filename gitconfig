@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = etienne.bourrinet40@gmail.com
+	name = etienne bourrinet
